@@ -1,1 +1,2 @@
-# reminder2
+# Try Here
+https://codebynahid.github.io/reminder2/
